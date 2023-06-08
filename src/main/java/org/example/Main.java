@@ -4,6 +4,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Commit 1");
         System.out.println("salam aleykum Chechnya");
-        System.out.println("salam aleykum brat`yam iz Ingushetii");
+        System.out.println("salam aleykum");
     }
 }
