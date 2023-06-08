@@ -5,5 +5,8 @@ public class Main {
         System.out.println("Commit 1");
         System.out.println("salam aleykum Chechnya");
         System.out.println("salam aleykum");
+        for(int i = 0; i<10; i++) {
+            System.out.println(i);
+        }
     }
 }
